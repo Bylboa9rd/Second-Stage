@@ -1,0 +1,15 @@
+C:\Users\KALU'S PC\Second_Stage_BEZAO_Tasks\repos\Task Three\Task Three\bin\Debug\net6.0\Task Three.exe
+C:\Users\KALU'S PC\Second_Stage_BEZAO_Tasks\repos\Task Three\Task Three\bin\Debug\net6.0\Task Three.deps.json
+C:\Users\KALU'S PC\Second_Stage_BEZAO_Tasks\repos\Task Three\Task Three\bin\Debug\net6.0\Task Three.runtimeconfig.json
+C:\Users\KALU'S PC\Second_Stage_BEZAO_Tasks\repos\Task Three\Task Three\bin\Debug\net6.0\Task Three.dll
+C:\Users\KALU'S PC\Second_Stage_BEZAO_Tasks\repos\Task Three\Task Three\bin\Debug\net6.0\Task Three.pdb
+C:\Users\KALU'S PC\Second_Stage_BEZAO_Tasks\repos\Task Three\Task Three\obj\Debug\net6.0\Task Three.csproj.AssemblyReference.cache
+C:\Users\KALU'S PC\Second_Stage_BEZAO_Tasks\repos\Task Three\Task Three\obj\Debug\net6.0\Task Three.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KALU'S PC\Second_Stage_BEZAO_Tasks\repos\Task Three\Task Three\obj\Debug\net6.0\Task Three.AssemblyInfoInputs.cache
+C:\Users\KALU'S PC\Second_Stage_BEZAO_Tasks\repos\Task Three\Task Three\obj\Debug\net6.0\Task Three.AssemblyInfo.cs
+C:\Users\KALU'S PC\Second_Stage_BEZAO_Tasks\repos\Task Three\Task Three\obj\Debug\net6.0\Task Three.csproj.CoreCompileInputs.cache
+C:\Users\KALU'S PC\Second_Stage_BEZAO_Tasks\repos\Task Three\Task Three\obj\Debug\net6.0\Task Three.dll
+C:\Users\KALU'S PC\Second_Stage_BEZAO_Tasks\repos\Task Three\Task Three\obj\Debug\net6.0\refint\Task Three.dll
+C:\Users\KALU'S PC\Second_Stage_BEZAO_Tasks\repos\Task Three\Task Three\obj\Debug\net6.0\Task Three.pdb
+C:\Users\KALU'S PC\Second_Stage_BEZAO_Tasks\repos\Task Three\Task Three\obj\Debug\net6.0\Task Three.genruntimeconfig.cache
+C:\Users\KALU'S PC\Second_Stage_BEZAO_Tasks\repos\Task Three\Task Three\obj\Debug\net6.0\ref\Task Three.dll
