@@ -5,7 +5,7 @@
 
 
 /* The user input is collected after which the sentence would be split by the spaces between the words.
- * the individual words would be stored in an array for reference after which each word loses its first letter.
+ * The individual words would be stored in an array for reference after which each word loses its first letter.
  *  That (first) letter is then stored in a variable for reattachment at the end of the word. 
  *  At the end of each word, "ay" is attached, followed by the space we removed at the beginning, which
  *  would help us form the sentence in Pig Latin. Since Console.WriteLine() prints each new word on a new line,
