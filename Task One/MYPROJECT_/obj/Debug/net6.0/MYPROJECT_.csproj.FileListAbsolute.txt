@@ -1,0 +1,15 @@
+C:\Users\KALU'S PC\source\repos\MYPROJECT_\MYPROJECT_\bin\Debug\net6.0\MYPROJECT_.exe
+C:\Users\KALU'S PC\source\repos\MYPROJECT_\MYPROJECT_\bin\Debug\net6.0\MYPROJECT_.deps.json
+C:\Users\KALU'S PC\source\repos\MYPROJECT_\MYPROJECT_\bin\Debug\net6.0\MYPROJECT_.runtimeconfig.json
+C:\Users\KALU'S PC\source\repos\MYPROJECT_\MYPROJECT_\bin\Debug\net6.0\MYPROJECT_.dll
+C:\Users\KALU'S PC\source\repos\MYPROJECT_\MYPROJECT_\bin\Debug\net6.0\MYPROJECT_.pdb
+C:\Users\KALU'S PC\source\repos\MYPROJECT_\MYPROJECT_\obj\Debug\net6.0\MYPROJECT_.csproj.AssemblyReference.cache
+C:\Users\KALU'S PC\source\repos\MYPROJECT_\MYPROJECT_\obj\Debug\net6.0\MYPROJECT_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KALU'S PC\source\repos\MYPROJECT_\MYPROJECT_\obj\Debug\net6.0\MYPROJECT_.AssemblyInfoInputs.cache
+C:\Users\KALU'S PC\source\repos\MYPROJECT_\MYPROJECT_\obj\Debug\net6.0\MYPROJECT_.AssemblyInfo.cs
+C:\Users\KALU'S PC\source\repos\MYPROJECT_\MYPROJECT_\obj\Debug\net6.0\MYPROJECT_.csproj.CoreCompileInputs.cache
+C:\Users\KALU'S PC\source\repos\MYPROJECT_\MYPROJECT_\obj\Debug\net6.0\MYPROJECT_.dll
+C:\Users\KALU'S PC\source\repos\MYPROJECT_\MYPROJECT_\obj\Debug\net6.0\refint\MYPROJECT_.dll
+C:\Users\KALU'S PC\source\repos\MYPROJECT_\MYPROJECT_\obj\Debug\net6.0\MYPROJECT_.pdb
+C:\Users\KALU'S PC\source\repos\MYPROJECT_\MYPROJECT_\obj\Debug\net6.0\MYPROJECT_.genruntimeconfig.cache
+C:\Users\KALU'S PC\source\repos\MYPROJECT_\MYPROJECT_\obj\Debug\net6.0\ref\MYPROJECT_.dll
