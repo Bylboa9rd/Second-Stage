@@ -22,7 +22,7 @@ while (true)
     Console.Write("Enter a number between 1 and 50: ");
     int userGuess = Convert.ToInt32(Console.ReadLine());
 
-    if ((userGuess == 0) || (userGuess > 50))
+    if ((userGuess <= 0) || (userGuess > 50))
     {
         Console.WriteLine("Number is out of range. Try again");
         tries++;
