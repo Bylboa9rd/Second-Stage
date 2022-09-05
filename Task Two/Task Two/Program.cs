@@ -9,12 +9,12 @@
 */
 
 
-Console.WriteLine("This is a random number guessing game.\nTry to guess the correct number. You have unlimited trials.\nLet's go!");
+Console.WriteLine("This is a random number guessing game.\nTry to guess the correct number. You have unlimited tries.\nLet's go!");
 
 Random number = new Random();
 int myNumber = number.Next(1, 51);
 
-int trials = 1;
+int tries = 1;
 
 while (true)
 {
@@ -24,25 +24,25 @@ while (true)
     if (userGuess == 0)
     {
         Console.WriteLine("Number is out of range. Try again");
-        trials++;
+        tries++;
         continue;
     }
     else if (userGuess > myNumber)
     {
         Console.WriteLine("Number is too big. Try again.");
-        trials++;
+        tries++;
         continue;
     }
     else if (userGuess < myNumber)
     {
         Console.WriteLine("Number is too small. Try again");
-        trials++;
+        tries++;
         continue;
     }
     else
     {
         Console.WriteLine($"{userGuess} is correct!");
-        Console.WriteLine("It took you {0} {1}", trials, trials == 1 ? "try" : "tries");
+        Console.WriteLine("It took you {0} {1}", tries, tries == 1 ? "try" : "tries");
         break;
     }
 }
