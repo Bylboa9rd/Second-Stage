@@ -6,6 +6,7 @@
 /*
  A random number from 1 to 50 is generated which the user has to guess correctly.
  There is no maximum number of tries required. At the end, it states the number of tries used. 
+ I couldn't figure out how to make it count as one try if they input the same number multiple times, consecutively. :(
 */
 
 
@@ -42,7 +43,7 @@ while (true)
     else
     {
         Console.WriteLine($"{userGuess} is correct!");
-        Console.WriteLine("It took you {0} {1}.", tries, tries == 1 ? "try" : "tries");
+        Console.WriteLine("It took {0} {1} to guess it right.", tries, tries == 1 ? "try" : "tries");
         break;
     }
 }
