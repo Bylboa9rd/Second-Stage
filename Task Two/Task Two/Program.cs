@@ -42,7 +42,7 @@ while (true)
     else
     {
         Console.WriteLine($"{userGuess} is correct!");
-        Console.WriteLine("It took you {0} {1}", tries, tries == 1 ? "try" : "tries");
+        Console.WriteLine("It took you {0} {1}.", tries, tries == 1 ? "try" : "tries");
         break;
     }
 }
