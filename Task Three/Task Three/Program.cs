@@ -18,14 +18,14 @@ string[] words = sentence.Split(' ');
 
 foreach (string word in words)
 {
-    char toAppend = Convert.ToChar(word.Substring(0, 1)); 
+    string toAppend = word.Substring(0, 1); 
     string newWord = word.Remove(0, 1);
 
     newWord += toAppend;
 
     newWord = newWord.Insert(newWord.Length, "ay");
 
-    newWord = newWord + " ";
+    newWord += " ";
 
     Console.Write(newWord);
 }
