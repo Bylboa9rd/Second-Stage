@@ -13,7 +13,7 @@
 Console.WriteLine("This is a random number guessing game.\nTry to guess the correct number. You have unlimited tries.\nLet's go!");
 
 Random number = new Random();
-int myNumber = number.Next(1, 51);
+int secretNumber = number.Next(1, 51);
 
 int tries = 1;
 
@@ -28,13 +28,13 @@ while (true)
         tries++;
         continue;
     }
-    else if (userGuess > myNumber)
+    else if (userGuess > secretNumber)
     {
         Console.WriteLine("Number is too big. Try again.");
         tries++;
         continue;
     }
-    else if (userGuess < myNumber)
+    else if (userGuess < secretNumber)
     {
         Console.WriteLine("Number is too small. Try again");
         tries++;
