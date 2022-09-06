@@ -18,7 +18,7 @@ string[] words = sentence.Split(' ');
 
 foreach (string word in words)
 {
-    string toAppend = word.Substring(0, 1); 
+    char toAppend = Convert.ToChar(word.Substring(0, 1)); 
     string newWord = word.Remove(0, 1);
 
     newWord += toAppend;
